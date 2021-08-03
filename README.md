@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @devWitch-ctrl
-- 👀 I’m interested in chatbots and UX/UI
+- 👋 Hi, I’m @ampersandwitch
+- 👀 I’m interested in AI, chatbots, and UX/UI
 - 🌱 I’m currently learning IBM Watson, AWS Lex, and JavaScript
 - 💞️ I’m looking to collaborate on a self-care chatbot built with AWS lex and open-source API's
 - 📫 How to reach me: tiffany DOT valentina87 AT gmail DOT com
